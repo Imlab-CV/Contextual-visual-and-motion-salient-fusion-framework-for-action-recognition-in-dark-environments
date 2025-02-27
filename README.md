@@ -22,5 +22,5 @@ Download InfAR dataset: [Click here](https://www.sciencedirect.com/science/artic
 
 
 
-## 3. Acknowledgements
-This work was supported by National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT), Grant/Award Number:(2023R1A2C1005788).
+## 3. Acknowledgments
+This work was supported by National Research Foundation of Korea (NRF) grant funded by the Korea government, MSIT, Grant/Award Number:(2023R1A2C1005788).
